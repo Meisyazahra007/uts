@@ -1,0 +1,32 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(2, 20, 2);
+}
+.bg{
+    background-image: url(backgroud.jpg);
+    background-size: cover;
+    color: green;
+    background-color: yellow;
+}
+.satu{
+    color: green;
+    background-color: yellow;
+    margin: 20px;
+}
+.dua{
+    color: green;
+    background-color: yellow;
+    margin: 20px;
+}
+.tiga{
+    color: green;
+    background-color: yellow;
+    margin: 20px;
+}
+.empat{
+    color: green;
+    background-color: yellow;
+    margin: 20px;
+}
